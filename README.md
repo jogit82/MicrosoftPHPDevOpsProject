@@ -1,3 +1,4 @@
+[![Build Status](https://farbankenterprises.visualstudio.com/FarBankCorporateWeb/_apis/build/status/FarBankCorporateWeb-CI-microsoftPHPtestApp?branchName=master)](https://farbankenterprises.visualstudio.com/FarBankCorporateWeb/_build/latest?definitionId=52?branchName=master)
 
 # Contributing
 
